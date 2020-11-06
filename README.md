@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ...
 
 ### Published Scientific Articles
-1.- Effects of spectral diffusion on the nonlinear optical properties in two- and three-state quantum systems in a four-wave mixing signal.
-2.- Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov́s theorem
+1. Effects of spectral diffusion on the nonlinear optical properties in two- and three-state quantum systems in a four-wave mixing signal.
+2. Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov́s theorem
 
 ### Languages
 -Español
@@ -32,37 +32,41 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 -
 
 ### Favorite Bands
-1.- Motorhead
-2.- Arch Enemy 
-3.- AC/DC
-4.- Steel Panther 
-5.- The Doors
-6.- Fozzy
-7.- Black Sabbath
-...
+1. Motorhead
+2. Arch Enemy 
+3. AC/DC
+4. Steel Panther 
+5. The Doors
+6. Fozzy
+7. Black Sabbath
+8. ...
 
 ### Favorite Books
-- Cien años de Soledad
+-Cien años de Soledad
 -El perfume
 -Gabriela Clavo y Canela
 -Nada
 
 ### Favorite TV Series
-1.- Black Mirror
-2.- Game of Thrones
-3.- Breaking Bad
-4.- The Big Bang Theory
-5.- The Walking Dead
-6.- Supernatural
+1. Black Mirror
+2. Game of Thrones
+3. Breaking Bad
+4. The Big Bang Theory
+5. The Walking Dead
+6. Supernatural
 
 ### Favorite Movies
+1. SAW
+2. See No Evil
+5. Interestelar
+4. Final Destination
+3. Wrong Turn
+
 
 ### Social Media
 
 
 
 ```markdown
-Site under devolepment. `Code` to remember
-
- and ![Image](src)
+Site under devolepment. `Code` to remember ![Image](src)
 ```
