@@ -7,8 +7,8 @@ I am an _Ecuadorian Physicist_.  I was born on November 24, 1994. My branches of
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Academic Achievements 
--Flag bearer.
--Best poster at XV ENO, VI Cancoa.
+- Flag bearer.
+- Best poster at XV ENO, VI Cancoa.
 ...
 
 ### Published Scientific Articles
@@ -16,21 +16,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 2. Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov́s theorem
 
 ### Languages
--Español
--English
--Portugués
--Deutsch
+- Español
+- English
+- Portugués
+- Deutsch
 
 
 ### Programming Languages
--C++
--Wolfram
--Python
--Matlab
+- C++
+- Wolfram
+- Python
+- Matlab
 
-### Skills
--
-
+### Programs
+- Github
+- Jupyter
+- Anaconda
 ### Favorite Bands
 1. Motorhead
 2. Arch Enemy 
@@ -42,10 +43,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 8. ...
 
 ### Favorite Books
--Cien años de Soledad
--El perfume
--Gabriela Clavo y Canela
--Nada
+- Cien años de Soledad
+- El perfume
+- Gabriela Clavo y Canela
+- Nada
 
 ### Favorite TV Series
 1. Black Mirror
@@ -58,10 +59,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Favorite Movies
 1. SAW
 2. See No Evil
-5. Interestelar
 4. Final Destination
 3. Wrong Turn
-
+3. Interestelar
 
 ### Social Media
 
