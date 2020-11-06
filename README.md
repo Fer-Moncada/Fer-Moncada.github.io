@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+## Fernando Moncada Auto-Biography
 
-You can use the [editor on GitHub](https://github.com/Fer-Moncada/Fer-Moncada.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an _Ecuadorian Physicist_.  I was born on November 24, 1994. My branches of interest ar **physics**, medical physics, data science, artificial intelligence, quantum computing and programming. I studied my undergraduate degree at [Escuela Politecnica Nacional](https://www.epn.edu.ec/). In my free time I love to listen to rock music, travel, read, watch TV series, solve puzzles, rubik cube, etc. I believe in Open Source. I do not believe in politicians. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Studies
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Academic Achievements 
+-Flag bearer.
+-Best poster at XV ENO, VI Cancoa.
+...
+
+### Published Scientific Articles
+1.- Effects of spectral diffusion on the nonlinear optical properties in two- and three-state quantum systems in a four-wave mixing signal.
+2.- Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov́s theorem
+
+### Languages
+-Español
+-English
+-Portugués
+-Deutsch
+
+
+### Programming Languages
+-C++
+-Wolfram
+-Python
+-Matlab
+
+### Skills
+-
+
+### Favorite Bands
+1.- Motorhead
+2.- Arch Enemy 
+3.- AC/DC
+4.- Steel Panther 
+5.- The Doors
+6.- Fozzy
+7.- Black Sabbath
+...
+
+### Favorite Books
+- Cien años de Soledad
+-El perfume
+-Gabriela Clavo y Canela
+-Nada
+
+### Favorite TV Series
+1.- Black Mirror
+2.- Game of Thrones
+3.- Breaking Bad
+4.- The Big Bang Theory
+5.- The Walking Dead
+6.- Supernatural
+
+### Favorite Movies
+
+### Social Media
+
+
+
 ```markdown
-Syntax highlighted code block
+Site under devolepment. `Code` to remember
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fer-Moncada/Fer-Moncada.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
