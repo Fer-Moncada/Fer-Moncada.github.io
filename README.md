@@ -1,72 +1,69 @@
-## Fernando Moncada Auto-Biography
-
-I am an _Ecuadorian Physicist_.  I was born on November 24, 1994. My branches of interest ar **physics**, medical physics, data science, artificial intelligence, quantum computing and programming. I studied my undergraduate degree at [Escuela Politecnica Nacional](https://www.epn.edu.ec/). In my free time I love to listen to rock music, travel, read, watch TV series, solve puzzles, rubik cube, etc. I believe in Open Source. I do not believe in politicians. 
-
-### Studies
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-### Academic Achievements 
-- Flag bearer.
-- Best poster at XV ENO, VI Cancoa.
-...
-
-### Published Scientific Articles
-1. Effects of spectral diffusion on the nonlinear optical properties in two- and three-state quantum systems in a four-wave mixing signal.
-2. Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov́s theorem
-
-### Languages
-- Español
-- English
-- Portugués
-- Deutsch
-
-
-### Programming Languages
-- C++
-- Wolfram
-- Python
-- Matlab
-
-### Programs
-- Github
-- Jupyter
-- Anaconda
-### Favorite Bands
-1. Motorhead
-2. Arch Enemy 
-3. AC/DC
-4. Steel Panther 
-5. The Doors
-6. Fozzy
-7. Black Sabbath
-8. ...
-
-### Favorite Books
-- Cien años de Soledad
-- El perfume
-- Gabriela Clavo y Canela
-- Nada
-
-### Favorite TV Series
-1. Black Mirror
-2. Game of Thrones
-3. Breaking Bad
-4. The Big Bang Theory
-5. The Walking Dead
-6. Supernatural
-
-### Favorite Movies
-1. SAW
-2. See No Evil
-4. Final Destination
-3. Wrong Turn
-3. Interestelar
-
-### Social Media
-
-
-
-```markdown
-Site under devolepment. `Code` to remember ![Image](src)
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Phys. Fernando Moncada  - Home</title>
+	<script src="https://kit.fontawesome.com/b7791f597c.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/hw1.css">
+	<link  rel="stylesheet" href="css/lightbox.min.css" />
+</head>
+<body>
+	<header>
+		<h1>Autobiography</h1>
+		<nav>
+			<a href="index.html" class = "active">Autobiography</a>
+			<a href="music.html">Favorite Music</a>
+			<a href="books-and-series.html">Favorite books and TV Series</a>
+		</nav>
+	</header>
+		<main>
+			<aside class = "left">
+			<a href="images/Fer.jpg" data-lightbox="Fer" data-title="Fernando Moncada"><img src="images/Fer.jpg" alt="Fernando Moncada" title="Fernando Moncada"/></a>
+	
+		</aside>
+			<section class = "right">
+			<h2>Data</h2>
+			<ul>
+			<li>Name: Fernando Gonzalo Moncada Gutiérrez.</li>
+			<li>Place of birth: Latacunga, Ecuador.</li>
+			<li>Date of birth: November 24th, 1994. </li>
+			<li>Profession: Physicist.</li>
+			<li>Place of work: Quito, Ecuador.</li>
+			<li>Company: Escuela Politécnica Nacional.</li>
+			<li>Work: Teaching Technician, Laboratory of physics.</li>
+			<li>Professional interests: Medical Physics, Science, Data science, Artificial Intelligence, Deep Learning, Machine Learning, Quantum Physics, Quantum Optics.</li>
+			<li>Hobbies: Travel, Listen to music, Chess, Rubik cubes, Literature, TV Series.</li>
+			<li>Scientific publications:</li>
+			</ul>
+			<ol>
+					<li>Moncada, F., Paz, J. L., Lascano, L., & Costa-Vera, C. (2018). <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218863518500388"> Effects of spectral diffusion on the nonlinear optical properties in two-and three-state quantum systems in a four-wave mixing signal.</a> Journal of Nonlinear Optical Physics & Materials, 27(04), 1850038. </li>
+					<li>Paz, J. L., Moncada, F., Ruiz-Hinojosa, E., Alvarado, Y. J., Lascano, L., Fernández, L., ... & Costa-Vera, C. (2020). <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0009261420309155"> Stochastic optical Bloch equations in complex system with vibronic coupling: Use of Novikov’s theorem.</a> Chemical Physics Letters, 760, 138000.</li>
+			</ol>
+	</section>
+	
+	
+				<h2>Early years: School</h2>
+			<p>I was born in Latacunga city, in Ecuador on November 24th, 1994. My parents are Manuel Moncada and Sofía Gutiérrez. My father is a taxi driver while my mom is a housewife. Since a kid I always was interested in maths and numbers. I am an only son, so I was not very friendly and I always invented games for myself. My first four years I live in "Joseguango bajo", a rural community of Latacunga city; I do not recall a lot from this years but. My first year of studies was at "María Montesori" kindergarden in Latacunga city. Later, I wen to study school at "Clu Rotario" school. I was not the most popular kid but I had some friends and I always was the smartest kid in the class; however due to my ugly writing I was not recognize officially as such. My teacher of seventh grade recommended me to study physics because I destacated so much in maths even though a that time I wanted to be a medic.</p>
+			<h2>High School</h2>
+			<p>I decided to study High School at "Primero de Abril". I continue destacating in Maths during the first three years of High school so I decided to study Maths and Physics at baccalaureate. However, I was called by the career advisor of the high school who told me about the International baccalaureate. This was the first turning point in my life. </p>
+			<p>I accepted to study the Ib program because it consituted a unique opportunity to study both "Maths and Physics" and "Chemestry and biology". Even though I had decided to study Maths and Physics at that time, I still had the dream to be a medic. This program aimed for both speacilizations so it was a huge opportunity and I was willing to take it.</p>
+			<p>In this program I me some of my most important friends. We were just twelve selected students at the class, we did not know each other and our teachers love us and encourages to get the best of us. In this program I studied Literature, History and biology at high level and Maths, Physics at standard level and English at Ab initio level. We had three other components which comprised Creativity, Action and Service; Theory of knowledge and the monography which I made in physics. </p>
+			<p>Here comes the second turning point in my life. At first year of baccalaureate I had a teacher in physics that did not know anything about physics (at that time I thought I was the one who did not know physics; however, now as a physicist I know he was the one who didnot know). Indeed, I discovered that the next year with a new professor in physics Dr. Fernando Santana. He was kind of a mentor to me and with such classes I fell in love with physics and I knew what I wanted to be in life. </p>
+			<p>Time pass by and the final evaluations for the international baccalaureateprogram came. All of my friends were dissapointed because our biology and maths teacher were bad and there were no chance for us to achive the diploma. However, I comitted to the task of learning everything I could until the day of the test and everything was good until the penultimate test of biology which I was not able to study as much as I wanted beacuse I was so tired of the whole month of tests. Days later, I receive a message in my phone from my CAS teacher who told me I have approved the program. I was in the taxi with my father in front of the fireman station (I will never forget the exact place were I was when I receive that awesome news). Approving the Ibprogram for me was a huge accomplishment and I was really excited beacuse I wanted to study overseas.</p>
+			<p>The math section of my test for entreance to the university was perfect, however due to some synonyms of spanish language I needed just a third of a point over one thousand points (as close as one can be) to geta scholarship to study anywhere in the world. I was so disapoinetd, however in retrospective, I think it was the best option. The ecuadorian goverment left abandoned many scholars around the world and also I would have had to work ten years in Ecuador until travelling abroad for a postgraduate program or for work. I ended up studying Physics at Escuela Politecnica Nacional, arguably the best university in the country. I was not happy at the begining beacuse I wanted to study physics at Harvard. With the pass of time, I learn to love my career (I always love physics) and little by littl became arguably the best student of the career. </p>
+			<p>I have never failed a subject at college. I was accepted to present a work at Universidad Industrial de Santander in bucaramanga Colombia were I earned the first place with my poster presentation. This was my favorite day in my whole life so far. It was my birthday: November 24th, 2017. I started the day in a discothec in a country I have never been before with many physicst I became friends with, just this week. Friends I never knew they existed just a week before. They were amazing and the whole discothect congratulated me in my birthday. I ended up that night drinking with the roomates until the 4 am in the morning, like a rock star. I woke up at 11 in the morning and I run to the clausere of the event. I just get there and less than two minutes later I heard they called me as the winner of the best poster presentation. I could not beleive that but it was real. Later that day I went to a five stars hotel, payed by my university as part of my trip (everything was payed since I won a scholarship for the whole event). I was in the sky, everything was perfect for me: My professional career was amazing, at that time I had the girlfriend of my dreams and even though everything always worked out for me, I have never been so happy as that time. </p>
+			<p>The time past and I graduated as a physicst. This was an amazing day in company of my family and a lot of my friends. Then I had a great period of full happiness, I had no responsability, no oligations, no problems. I just have to wait for my professional title to be legalized in order to get any of the job offers I had. I spend that time with my friends and travelling. I helped a little in the development of the Simbiosis festival, an divulgative initiative of some friends in Macas city, in the ecuadorian forest. When I was in this festival I get another job offer from the Physics Department of my University. Inmmeditely I mailed my resume and at the end of the process I was one f the winners of the selection and I was contrated as a teaching technician for the Physics Laboratory. </p>
+			<p>I have been working there for two years and it has been a great job. Fortunately I have been ale to solve all the problems we faced. On February 2020 I won a scholarship to study a master degree of Physics Applied to Medicine and biology at Sao Paulo University. I was thrilled to study that in country whose language I did not knew but I have started to learn. I get the visa, the plane tickets, quit my job and I was ready to travel while COVID19 strikes and crashed all my plans to the ground. I felt so disapointed at that time. In retrospective, it was for the best. I could get back my job, I was able to help my parents since they lose their means of susistence and I learned about different opportunities which I working on for 2021. So, this is my life in nutshel so far!</p>
+<iframe src="https://calendar.google.com/calendar/embed?height=200&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FGuayaquil&amp;src=ZmVyNjY2Yml0d0BnbWFpbC5jb20&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=bDYxb2Fja2s5a2s1c3FuYnZza3ZlcmJ0MDVkMnEwNmRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZXMuZWMjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%237986CB&amp;color=%23A79B8E&amp;color=%237986CB&amp;showTitle=1&amp;showNav=1&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=1" style="border:solid 1px #777" width="250" height="200"></iframe>
+<div class="footer">
+  <p>Social Media: <a href="https://www.facebook.com/FerMoncadaTk/"><i class="fab fa-facebook-square"></i></a>
+  <a href="https://www.researchgate.net/profile/Fernando_Moncada3"><i class="fab fa-researchgate"></i></a>
+  <a href="https://twitter.com/FerTkMoncada"><i class="fab fa-twitter"></i></a>
+  <a href="https://www.linkedin.com/in/fernando-moncada-05652858/"><i class="fab fa-linkedin-in"></i></a>
+  <a href="https://github.com/Fer-Moncada"><i class="fab fa-github"></i></a>
+  <a href="https://www.instagram.com/fer666moncada/"><i class="fab fa-instagram"></i></a></p>
+</div>
+</main>
+<script src="js/lightbox-plus-jquery.min.js"></script>
+</body>
+</html>
