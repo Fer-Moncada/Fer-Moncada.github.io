@@ -84,9 +84,12 @@ nav a{
 	display: block;
 }
 }
-* {font-family: Helvetica Neue, Arial, sans-serif; }
 
-body { background-image: linear-gradient(#aaa 25%, #000);}
+
+
+
+
+* {font-family: Helvetica Neue, Arial, sans-serif; }
 
 h1, table { text-align: center; }
 
