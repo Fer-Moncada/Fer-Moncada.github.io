@@ -114,10 +114,7 @@ nav a{
 }
 
 iframe {
-  width: 80%;        /* or any width you want */
-  border: none;
-  display: block;
-  margin: 0 auto;   /* center it */
+  width: 100%;       
 }
 
 
