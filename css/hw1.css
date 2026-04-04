@@ -114,8 +114,8 @@ nav a{
 }
 
 iframe {
-  width: 100%;   
-  height: device-width;
+  width: 600px;
+  height: 600px;
 }
 
 
