@@ -115,7 +115,7 @@ nav a{
 
 iframe {
   width: 100%;   
-  aspect-ratio: 5/4;
+  height: device-width;
 }
 
 
